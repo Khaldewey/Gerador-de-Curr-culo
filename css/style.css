@@ -1,0 +1,21 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.input, .input1, .input2, .botao, #inicio {
+    display: block;
+    padding: 10px;
+    margin: auto ;
+    margin-top: 10px;
+    
+} 
+
+#painel {
+    height: 400px;
+    background-color: cornflowerblue;
+    padding-top: 100px;
+}*/ 
+
+.selectForm, .selectSit {
+    display: block;
+}
